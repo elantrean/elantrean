@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning MIT6.874 in youtube
 - 💞️ I’m looking to collaborate on developing user friendly tools and algorithms in bioinformatics 
-- 📫 How to reach me my email is elantreanfu@qq.com and elantreanfu@gmail.com the former one is commonly used, and the previous school mailbox is 11810503@mail.sustech.edu.cn(still useful). Current school mailbox is fuxiaohai22@mails.ucas.ac.cn.
+- 📫 How to reach me? My email is elantreanfu@qq.com and elantreanfu@gmail.com the former one is commonly used, and the previous school mailbox is 11810503@mail.sustech.edu.cn(still useful). Current school mailbox is fuxiaohai22@mails.ucas.ac.cn.
 
 <!---
 elantrean/elantrean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
